@@ -1,5 +1,5 @@
 # data-engineering
-git clone https://github.com/YourUsername/data-engineering-portfolio.git
+git clone https://github.com/kalyaniborra/data-engineering-portfolio.git
 cd data-engineering-portfolio
 git add .
 git commit -m "Initial commit"
